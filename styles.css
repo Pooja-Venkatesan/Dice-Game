@@ -18,14 +18,14 @@ h1{
   margin: 30px;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   text-shadow: 5px 0 #272626;
-  font-size: 4rem;
+  font-size: 3rem;
   color: #e2cfbf;
 }
 h2 {
   /* margin: 30px; */
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-shadow: 5px 0 #272626;
-  font-size: 8rem;
+  font-size: 4rem;
   color: #df934d;
 }
 
